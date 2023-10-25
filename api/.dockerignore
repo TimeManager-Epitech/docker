@@ -2,5 +2,6 @@
 /deps
 erl_crash.dump
 Api.Dockerfile
+.dockerignore
 README
 README.md
