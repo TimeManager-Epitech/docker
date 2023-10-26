@@ -1,0 +1,9 @@
+# App files
+**/node_modules
+
+# Docker
+Webapp.Dockerfile
+.dockerignore
+
+# Git
+README.md
