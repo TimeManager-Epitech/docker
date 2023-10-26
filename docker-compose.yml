@@ -31,7 +31,7 @@ services:
     env_file:
       - ./webapp/.env
     ports:
-      - 8080:8080
+      - 5173:5173
     volumes:
       - ../webapp:/app
     depends_on:
